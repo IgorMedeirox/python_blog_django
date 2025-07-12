@@ -84,8 +84,3 @@ This blog was crafted to level up my backend skills — and also happens to be a
 
 Open-source and friendly — just like me!  
 Use it, fork it, improve it. 🍕
-
-```
-
-If you want, I can help add badges, setup instructions, or visual mockups. Just say the word!
-```
