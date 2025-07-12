@@ -1,4 +1,3 @@
-```markdown
 # 📰 Django Blog System
 
 Welcome to my fully-featured **Blog Project**, built with 💙 Django!  
